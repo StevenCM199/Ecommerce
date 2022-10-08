@@ -1,0 +1,30 @@
+.img-card{
+  width: 250px !important;
+  height: 300px !important;
+  object-fit: contain !important;
+  margin: 0 auto !important; 
+}
+
+
+.img-fluid{
+  width: 250px !important;
+  height: 300px !important;
+  object-fit: contain !important;
+  margin: 20px auto !important; 
+}
+
+.product-price{
+  display: flex !important;
+  text-align: center !important;
+  vertical-align: center !important;
+}
+
+.product-price h4{
+  margin-left: 20px !important;
+  margin-top: 2.5px !important;
+}
+
+
+.checkout-button {
+  background: green ; 
+}
