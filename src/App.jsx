@@ -1,6 +1,6 @@
 import { HashRouter, Route, Routes } from "react-router-dom";
 import LoadingScreen from "./components/LoadingScreen";
-import MyNavbar from "./components/MyNavbar";
+import MyNavbar from "./components/MyNavBar";
 import Purchases from "./pages/Purchases";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
